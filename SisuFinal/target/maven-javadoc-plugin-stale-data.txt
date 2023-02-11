@@ -1,0 +1,51 @@
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/henkv/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13.jar;C:/Users/henkv/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13.jar;C:/Users/henkv/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13.jar;C:/Users/henkv/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13.jar'
+--module-path
+'C:/Users/henkv/Desktop/Yliopisto/Maisterivuosi 1/COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat/Projects/sisu/target/classes;C:/Users/henkv/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13-win.jar;C:/Users/henkv/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13-win.jar;C:/Users/henkv/.m2/repository/com/google/code/gson/gson/2.9.0/gson-2.9.0.jar;C:/Users/henkv/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13-win.jar;C:/Users/henkv/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13-win.jar'
+--patch-module
+fi.tuni.prog3.sisu='C:/Users/henkv/Desktop/Yliopisto/Maisterivuosi 1/COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat/Projects/sisu/src/main/java'
+-encoding
+'UTF-8'
+-private
+-source
+'11'
+--module-source-path
+'C:/Users/henkv/Desktop/Yliopisto/Maisterivuosi 1/COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat/Projects/sisu/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/henkv/Desktop/Yliopisto/Maisterivuosi 1/COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat/Projects/sisu/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Sisu 1.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/henkv/Desktop/Yliopisto/Maisterivuosi 1/COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat/Projects/sisu/target/javadoc-bundle-options'
+-nohelp
+-use
+-version
+-windowtitle
+'Sisu 1.0 API'
+fi.tuni.prog3.sisu
+'C:/Users/henkv/Desktop/Yliopisto/Maisterivuosi 1/COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat/Projects/sisu/src/main/java/module-info.java'
+C:\Users\henkv\Desktop\Yliopisto\Maisterivuosi 1\COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat\Projects\sisu\target\site\apidocs\allclasses-index.html = 1671211724293
+C:\Users\henkv\Desktop\Yliopisto\Maisterivuosi 1\COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat\Projects\sisu\target\site\apidocs\allpackages-index.html = 1671211724297
+C:\Users\henkv\Desktop\Yliopisto\Maisterivuosi 1\COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat\Projects\sisu\target\site\apidocs\element-list = 1671211724045
+C:\Users\henkv\Desktop\Yliopisto\Maisterivuosi 1\COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat\Projects\sisu\target\site\apidocs\index-all.html = 1671211724335
+C:\Users\henkv\Desktop\Yliopisto\Maisterivuosi 1\COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat\Projects\sisu\target\site\apidocs\index.html = 1671211724339
+C:\Users\henkv\Desktop\Yliopisto\Maisterivuosi 1\COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat\Projects\sisu\target\site\apidocs\jquery-ui.overrides.css = 1671211724392
+C:\Users\henkv\Desktop\Yliopisto\Maisterivuosi 1\COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat\Projects\sisu\target\site\apidocs\member-search-index.js = 1671211724306
+C:\Users\henkv\Desktop\Yliopisto\Maisterivuosi 1\COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat\Projects\sisu\target\site\apidocs\module-search-index.js = 1671211724300
+C:\Users\henkv\Desktop\Yliopisto\Maisterivuosi 1\COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat\Projects\sisu\target\site\apidocs\overview-tree.html = 1671211724272
+C:\Users\henkv\Desktop\Yliopisto\Maisterivuosi 1\COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat\Projects\sisu\target\site\apidocs\package-search-index.js = 1671211724302
+C:\Users\henkv\Desktop\Yliopisto\Maisterivuosi 1\COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat\Projects\sisu\target\site\apidocs\script.js = 1671211724346
+C:\Users\henkv\Desktop\Yliopisto\Maisterivuosi 1\COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat\Projects\sisu\target\site\apidocs\search.js = 1671211724350
+C:\Users\henkv\Desktop\Yliopisto\Maisterivuosi 1\COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat\Projects\sisu\target\site\apidocs\stylesheet.css = 1671211724342
+C:\Users\henkv\Desktop\Yliopisto\Maisterivuosi 1\COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat\Projects\sisu\target\site\apidocs\tag-search-index.js = 1671211724308
+C:\Users\henkv\Desktop\Yliopisto\Maisterivuosi 1\COMP.CS.140 COMP.CS.140 Ohjelmointi 3 Rajapinnat ja tekniikat\Projects\sisu\target\site\apidocs\type-search-index.js = 1671211724303

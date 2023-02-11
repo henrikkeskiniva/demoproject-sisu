@@ -1,0 +1,177 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 8.12.2022, 23.14.44
+    Author     : ockso
+*/
+
+.root{
+    -fx-font-family: "Martian Mono";
+    -fx-padding: 2em;
+    -fx-background-image: url("../texture.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+    
+    -fx-focus-color: #39281b;
+    -fx-faint-focus-color: #725a48;
+}
+
+.context-menu{
+    -fx-background-color: rgba(170, 150, 120, 1);
+    -fx-highlight-fill: #39281b;
+}
+
+.button{
+    -fx-font-size: 1.2em;
+}
+
+.label{
+    -fx-text-fill: whitesmoke;
+    -fx-highlight-fill: #39281b;
+}
+
+.list-view{
+    -fx-min-height: 35em;
+    -fx-pref-height: 35em;
+    -fx-max-height: 35em;
+    -fx-pref-width: 60em;
+    -fx-max-width: 60em;
+}
+
+.list-view .list-cell{
+    -fx-label-padding: 0.4em;
+    color:#beab9c
+}
+
+
+
+.list-cell:filled:selected:focused, .list-cell:filled:selected {
+    -fx-background-color: linear-gradient(#BEAB9C 0%, #a58974 100%);
+    -fx-text-fill: whitesmoke;
+}
+
+.menu-item .label{
+   -fx-text-fill: #39281b;
+   /*-fx-highlight-fill: #39281b;*/
+}
+
+.menu-item .label:hover{
+    -fx-highlight-fill: #39281b;
+}
+
+#contentContainer{
+    -fx-min-height: 44em;
+    -fx-max-height: 44em;
+    -fx-pref-height: 44em;
+}
+
+#degreeContainer{
+    -fx-max-height: 44em;
+    -fx-pref-height: 44em;
+    -fx-max-width: 70em;
+    -fx-pref-width: 70em;
+}
+
+#chosenContainer{
+    -fx-max-height: 44em;
+    -fx-pref-height: 44em;
+    -fx-max-width: 70em;
+    -fx-pref-width: 70em;
+}
+
+#menuContent{
+    -fx-background-color: rgba(170, 150, 120, 0.8);
+    -fx-background-radius: 5.0; 
+    -fx-padding: 8em;
+    -fx-border-radius: 2em;
+    -fx-alignment: center;
+    -fx-pref-width: 60em;
+    -fx-max-width: 60em;
+}
+
+#menuContentLarge{
+    -fx-background-color: rgba(170, 150, 120, 0.8);
+    -fx-background-radius: 5.0; 
+    -fx-padding: 3em;
+    -fx-border-radius: 2em;
+    -fx-pref-width: 120em;
+    -fx-max-width: 125em;
+}
+
+#menuContent .text-field{
+    -fx-pref-width: 20em;
+    -fx-highlight-fill: #39281b;
+}
+
+#menuContent .button{
+    -fx-color: whitesmoke;
+    -fx-text-fill: #39281b;
+    -fx-stroke-width: 5px;
+    -fx-padding: 1em;
+    -fx-pref-width: 15em;
+    -fx-max-width: 15em;
+    
+}
+
+#menuContent .button:hover{
+    -fx-color: #39281b;
+    -fx-text-fill: whitesmoke;
+    
+}
+
+#menuHeader{
+    -fx-font-size: 4.5em;
+    -fx-font-weight: 700;
+    -fx-text-fill: whitesmoke;
+}
+
+#currentID{
+    -fx-font-size: 1em;
+    -fx-font-weight: 700;
+}
+
+#userInputs{
+    -fx-max-width: 35em;
+}
+
+
+#degreeContent{
+    -fx-pref-width:25em;
+    /*-fx-background-color: #ffcccc;*/
+}
+
+#chosenContent{
+    -fx-pref-width:25em;
+    /*-fx-background-color: #ffffcc;*/
+    /*-fx-padding: 20px;*/
+}
+
+
+#addLabel{
+    -fx-pref-width:40em;
+    -fx-max-width:40em;
+}
+
+#removeLabel{
+    -fx-pref-width:40em;
+    -fx-max-width:40em;
+}
+
+#creditsContent{
+    -fx-pref-width:30em;
+    -fx-max-width:30em;
+    /*-fx-background-color: #ffffff;*/
+}
+
+#currentCreditsLabel{
+/*    -fx-pref-width:30em;
+    -fx-max-width:30em;*/
+}
+
+#degreeCreditsLabel{
+/*    -fx-pref-width:30em;
+    -fx-max-width:30em;*/
+}
